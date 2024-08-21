@@ -4,20 +4,24 @@
 ## Overview and Origin
 
 **Name:** Tempus  
+
 **Incorporation Date:** 2015  
-**Founders:** Eric Lefkofsky, Brad Keywell  
-**Origin:** Tempus was founded to collect, structure, and analyze clinical and molecular data to enable personalized treatment plans for cancer patients. The idea came from Eric Lefkofsky's experience with inadequate data when his wife was diagnosed with cancer.  
-**Funding:** Tempus has raised over $1 billion in funding from investors such as NEA, Revolution Growth, and T. Rowe Price.
+
+**Founders:** Eric Lefkofsky and Brad Keywell  
+
+**Origin and Idea:** Tempus was founded in August of 2015 by Eric Lefkofsky, after his wife was diagnosed with Breast Cancer. Shortly after he founded the company in an effort to bring the power of technology and artificial intelligence to cancer care. Tempus was founded to collect, structure, and analyze clinical and molecular data to enable personalized treatment plans for cancer patients.
+
+**Funding:** Tempus has raised over $1.3 billion in funding from investors such as NEA, Revolution Growth, and T. Rowe Price.
 
 ## Business Activities
 
-**Problem Statement:** Tempus is solving the problem of fragmented and unstructured clinical data in healthcare, which hinders personalized treatment.
+**Problem Statement:** Tempus is focused on building the first version of a platform capable of ingesting real time healthcare data in an effort to personalize diagnostics.
 
 **Target Audience:** The company primarily serves healthcare providers, researchers, and pharmaceutical companies. The target market includes oncology, infectious diseases, and cardiology sectors, which represent multi-billion-dollar markets.
 
-**USP:** Tempus’ unique advantage lies in its ability to integrate clinical and molecular data at scale, providing actionable insights that other platforms cannot match. This allows for truly personalized medicine, where treatments are tailored to the individual genetic makeup of each patient.
+**USP:** Tempus’ unique advantage lies in its ability to integrate clinical and molecular data at scale, providing actionable insights that other platforms cannot match. This allows for truly personalized medicine, where treatments are tailored to the individual genetic makeup of each patient. This is something that many pharmaceutical companies do not do or do not have the structure to do so.
 
-**Technology Stack:** Tempus utilizes technologies like machine learning, natural language processing (NLP), and cloud computing. They employ NLP to extract insights from unstructured clinical notes and machine learning models to predict patient outcomes.
+**Technologies in Use:** Tempus utilizes technologies like machine learning, natural language processing (NLP), and cloud computing. They employ NLP to extract insights from unstructured clinical notes and machine learning models to predict patient outcomes.
 
 ## Landscape
 
