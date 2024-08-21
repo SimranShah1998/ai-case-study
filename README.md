@@ -19,9 +19,9 @@
 
 **Target Audience:** The company primarily serves healthcare providers, researchers, and pharmaceutical companies. The target market includes oncology, infectious diseases, and cardiology sectors, which represent multi-billion-dollar markets.
 
-**USP:** Tempus’ unique advantage lies in its ability to integrate clinical and molecular data at scale, providing actionable insights that other platforms cannot match. This allows for truly personalized medicine, where treatments are tailored to the individual genetic makeup of each patient. This is something that many pharmaceutical companies do not do or do not have the structure to do so.
+**USP:** Tempus’ unique advantage lies in its ability to integrate clinical and molecular data at scale, providing insights that other platforms cannot match. This allows for personalized medicine, where treatments are tailored to the individual genetic makeup of each patient. This is something that many pharmaceutical companies do not do or do not have the structure to do so.
 
-**Technologies in Use:** Tempus utilizes technologies like machine learning, natural language processing (NLP), and cloud computing. They employ NLP to extract insights from unstructured clinical notes and machine learning models to predict patient outcomes.
+**Technologies in Use:** Tempus uses technologies like machine learning, natural language processing (NLP), and cloud computing. They employ NLP to extract insights from unstructured clinical notes and machine learning models to predict patient outcomes.
 
 ## Landscape
 
